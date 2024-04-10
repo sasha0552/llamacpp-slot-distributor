@@ -1,0 +1,33 @@
+#slot_manager_settings .menu_button {
+  width: fit-content;
+  display: flex;
+  gap: 10px;
+  flex-direction: row;
+}
+
+#slot_manager_settings .slot_status_empty {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 10px;
+  height: 100%;
+  justify-content: center;
+  margin: 0 auto 1px auto;
+  opacity: 0.5;
+  padding: 5px;
+  text-align: center;
+  width: 100%;
+}
+
+#slot_manager_settings .slot_status_indicator {
+  background-color: green;
+  border-radius: 100%;
+  display: inline-block;
+  height: 14px;
+  width: 14px;
+}
+
+#slot_manager_settings .slot_status_text {
+  display: inline-block;
+}

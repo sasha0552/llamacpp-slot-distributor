@@ -1,0 +1,11 @@
+{
+  "display_name": "llama.cpp: Slot Manager",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "sasha0552",
+  "version": "1.0.0",
+  "homePage": "https://github.com/sasha0552/llamacpp-slot-manager"
+}
